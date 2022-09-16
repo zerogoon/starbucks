@@ -34,5 +34,5 @@ window.addEventListener(
                 display: "block",
             });
         }
-    }, 300); // _.throttle(함수, 시간);
+    }, 300) // _.throttle(함수, 시간);
 );
